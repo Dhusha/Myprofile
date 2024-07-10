@@ -5,7 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=dhusha&label=Profile%20views&color=0e75b6&style=flat" alt="dhusha" />
 </p>
 
-- 🌱 I’m currently pursuing a **Master's in Data Science**
+- 🌱 I’m a Data Science/Data Analyst enthusiast with 2+ years of HR experience, currently pursuing a Master's in Data Science. Aiming to blend HR expertise with data science to drive strategic decision-making and optimize business performance.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
